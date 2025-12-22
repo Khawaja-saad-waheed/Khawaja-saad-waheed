@@ -1,10 +1,8 @@
 I'm Saad
 
-🎓 Computer Engineering student at NUST EME
-
-💡 Interested in: Embedded Systems | Electronics | Programming
-
-🚀 Currently learning: C/C++, Python, Circuit Design
+🎓 Computer Engineering student at NUST EME 
+💡 Interested in: Embedded Systems | Electronics | Programming 
+🚀 Currently learning: C/C++, Python, Circuit Design 
 
 📂 Projects:
 - RC Car Controller (Motor control, PWM, hardware)

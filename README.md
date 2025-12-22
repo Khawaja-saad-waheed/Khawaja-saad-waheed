@@ -1,16 +1,17 @@
-## Hi there 👋
+I'm Saad
 
-<!--
-**Khawaja-saad-waheed/Khawaja-saad-waheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at NUST
+💡 Interested in: Embedded Systems | Electronics | Programming
+🚀 Currently learning: C/C++, Python, Circuit Design
 
-Here are some ideas to get you started:
+📂 Projects:
+- RC Car Controller (Motor control, PWM, hardware)
+- Panic alarm system
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools:
+- Python, Mips
+- ESP32
+- Proteus, LTspice
+
+📫 Contact:
+- Email: khjasaad@gmail.com

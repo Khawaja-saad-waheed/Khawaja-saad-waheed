@@ -1,7 +1,9 @@
 I'm Saad
 
 🎓 Computer Engineering student at NUST
+
 💡 Interested in: Embedded Systems | Electronics | Programming
+
 🚀 Currently learning: C/C++, Python, Circuit Design
 
 📂 Projects:

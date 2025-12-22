@@ -1,6 +1,6 @@
 I'm Saad
 
-🎓 Computer Engineering student at NUST
+🎓 Computer Engineering student at NUST EME
 
 💡 Interested in: Embedded Systems | Electronics | Programming
 

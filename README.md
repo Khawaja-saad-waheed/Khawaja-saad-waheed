@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Khawaja Saad Waheed</h1>
+<h1 align="center">Hi 👋, I'm Khawaja Saad Waheed</h1>
 <h3 align="center">🚀 Computer Engineering Student | Embedded Systems | Low-Level Programming | Hardware-Software Integration</h3>
 
 ---
@@ -87,6 +87,7 @@
 ## 📫 Contact Me
 
 * 📧 Email: **[khjasaad@gmail.com](mailto:khjasaad@gmail.com)**
+* 💼 LinkedIn: [Khawaja Saad Waheed](https://www.linkedin.com/in/khawaja-saad-bin-waheed-lone-ab2878384/)
 
 ---
 

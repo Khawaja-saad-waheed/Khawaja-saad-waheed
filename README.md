@@ -8,9 +8,13 @@ I'm Khawaja Saad Waheed,
 
 Projects:
 -"EyeAgri" - AI based agriculture regulating system.
+
 -"SentinelX" — Real-time Windows malware detection engine in C++ with SFML GUI.
+
 -"20-Bit Multi" - Instruction Processor — Custom processor architecture supporting multiple operations per instruction cycle, designed and simulated at the hardware level.
+
 -"RC Car Controller" — Embedded motor control system with PWM-based speed regulation.
+
 -"Panic Alarm System" — Real-time embedded safety and alert system.
 
 🛠️ Tools:

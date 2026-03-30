@@ -1,14 +1,17 @@
-I'm Saad
+I'm Khawaja Saad Waheed,
 
-🎓 Computer Engineering student at NUST EME 
+🎓 Computer Engineering student at EME, NUST. 
 
 💡 Interested in: Embedded Systems | Electronics | Programming 
 
-🚀 Currently learning: C++, Python, Circuit Design 
+🚀 Currently working on: C++, Python, Circuit Design 
 
-📂 Projects:
-- RC Car Controller (Motor control, PWM, hardware)
-- Panic alarm system
+Projects:
+-"EyeAgri" - AI based agriculture regulating system.
+-"SentinelX" — Real-time Windows malware detection engine in C++ with SFML GUI.
+-"20-Bit Multi" - Instruction Processor — Custom processor architecture supporting multiple operations per instruction cycle, designed and simulated at the hardware level.
+-"RC Car Controller" — Embedded motor control system with PWM-based speed regulation.
+-"Panic Alarm System" — Real-time embedded safety and alert system.
 
 🛠️ Tools:
 - C++, SFML

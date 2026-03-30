@@ -2,11 +2,20 @@ I'm Khawaja Saad Waheed,
 
 🎓 Computer Engineering student at EME, NUST. 
 
+
+
 💡 Interested in: Embedded Systems | Electronics | Programming 
+
+
+
 
 🚀 Currently working on: C++, Python, Circuit Design 
 
+
+
+
 Projects:
+
 -"EyeAgri" - AI based agriculture regulating system.
 
 -"SentinelX" — Real-time Windows malware detection engine in C++ with SFML GUI.
